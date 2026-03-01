@@ -3,8 +3,6 @@ Number Theory Algorithms
 _**Overview**_:
 This repository contains Python implementations of several mathematical and number theory algorithms, including validation, sequence generation, factorisation, and basic statistical computation.
 
- work is relevant for developing foundational skills useful in quantitative and computational environments, including firms such as :contentReference[oaicite:0]{index=0}.
-
 _**Contents**_
 - **Luhn Card Validator** – Determines whether a card number is valid using Luhn's algorithm, and identifies the card type.
   (only for Visa, Mastercard and AMEX)
